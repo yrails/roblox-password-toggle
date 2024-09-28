@@ -10,7 +10,7 @@ A Chrome extension to toggle password visibility on the Roblox login page. This 
 
 ## Installation
 
-1. Download the latest release of the extension from the [releases page]([link-to-your-releases](https://github.com/yrails/roblox-password-toggle/releases/tag/v1.0)).
+1. Download the latest release of the extension from the [releases page](link-to-your-releases](https://github.com/yrails/roblox-password-toggle/releases/tag/v1.0)).
 2. Open Google Chrome and navigate to `chrome://extensions/`.
 3. Enable "Developer mode" by toggling the switch in the top right corner.
 4. Click on "Load unpacked" and select the folder containing the extension files.
