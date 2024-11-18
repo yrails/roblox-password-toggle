@@ -26,7 +26,7 @@ A Chrome extension to toggle password visibility on the Roblox login page. This 
 
 If you find this extension helpful, consider supporting the development via Bitcoin:
 
-**BTC Address**: `bc1qlnzcrw8yg2q6v6ur2x2m3ad4w9898zcxngvmhu`
+**BTC Address**: `bc1qkpwf5w2ek8rnhfvcsp96nmyl70pc0q7d32rult`
 
 Click the button below to copy the Bitcoin address:
 
